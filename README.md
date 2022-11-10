@@ -91,3 +91,13 @@ emojis:
 ---
 ---
 @bernardo-heckler
+
+
+---
+---
+Referencias:
+emojis:
+https://github.com/ikatyang/emoji-cheat-sheet
+
+cheat-sheet github:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
