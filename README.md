@@ -47,3 +47,47 @@ Imagens:
 Links:
 [Testando link](https://www.google.com)
 
+
+---
+---
+tabelas:
+
+col1 | col2 | col3
+---|---|---
+1 | valor 1 | valor 1
+2 | valor 2 | valor 2
+3 | valor 3 | valor 3
+
+terminou a tabela
+
+---
+---
+Destacar comandos:
+
+estrutura básica da `HTML`:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+
+
+---
+---
+
+emojis:
+
+:office_worker:
+
+---
+---
+@bernardo-heckler
