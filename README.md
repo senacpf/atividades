@@ -15,9 +15,9 @@ _palavra_ em itálico
 
 Lista numerada:
 1. item1
-  1. item2
-1. item4
-3. item3
+1. item2
+    1. item4
+    1. item3
 
 Lista não ordenada:
 * item1
@@ -101,3 +101,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 cheat-sheet github:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Guia definitivo de Markdown em pt-BR
+https://github.com/mende1/guia-definitivo-de-markdown
